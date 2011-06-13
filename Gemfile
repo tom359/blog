@@ -6,4 +6,5 @@ gem 'haml'
 
 group :development, :test do
   gem 'haml-rails'
+  gem 'heroku'
 end
